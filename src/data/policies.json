@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Chính sách bảo hành",
+    "content": "Chúng tôi cung cấp bảo hành 12 tháng cho tất cả các sản phẩm điện thoại."
+  },
+  {
+    "id": 2,
+    "title": "Chính sách đổi trả",
+    "content": "Khách hàng có thể đổi trả sản phẩm trong vòng 7 ngày nếu sản phẩm có lỗi từ nhà sản xuất."
+  },
+  {
+    "id": 3,
+    "title": "Chính sách vận chuyển",
+    "content": "Miễn phí vận chuyển cho đơn hàng từ 1.000.000 VNĐ trở lên."
+  },
+  {
+    "id": 4,
+    "title": "Chính sách bảo mật",
+    "content": "Chúng tôi cam kết bảo mật thông tin cá nhân của khách hàng."
+  }
+]

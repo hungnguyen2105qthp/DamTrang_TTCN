@@ -1,0 +1,38 @@
+[
+  {
+    "ho": "Admin",
+    "ten": "Admin",
+    "email": "admin@web.com",
+    "username": "admin",
+    "pass": "admin",
+    "products": [],
+    "orders": []
+  },
+  {
+    "ho": "Nguyen",
+    "ten": "Van A",
+    "email": "user1@example.com",
+    "username": "user1",
+    "pass": "pass1",
+    "products": [],
+    "orders": []
+  },
+  {
+    "ho": "Tran",
+    "ten": "Thi B",
+    "email": "user2@example.com",
+    "username": "user2",
+    "pass": "pass2",
+    "products": [],
+    "orders": []
+  },
+  {
+    "ho": "Le",
+    "ten": "Van C",
+    "email": "user3@example.com",
+    "username": "user3",
+    "pass": "pass3",
+    "products": [],
+    "orders": []
+  }
+]

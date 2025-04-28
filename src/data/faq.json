@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "Làm thế nào để đặt hàng?",
+    "answer": "Bạn có thể đặt hàng trực tiếp trên website hoặc gọi đến hotline của chúng tôi."
+  },
+  {
+    "id": 2,
+    "question": "Thời gian giao hàng là bao lâu?",
+    "answer": "Thời gian giao hàng từ 2-5 ngày làm việc tùy thuộc vào địa điểm của bạn."
+  },
+  {
+    "id": 3,
+    "question": "Tôi có thể trả hàng không?",
+    "answer": "Có, bạn có thể trả hàng trong vòng 7 ngày nếu sản phẩm còn nguyên vẹn."
+  }
+]

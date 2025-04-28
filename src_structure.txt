@@ -1,0 +1,134 @@
+src/
+├── App.css
+├── App.jsx
+├── assets/
+│   ├── css/
+│   ├── img/
+│   │   ├── banners/
+│   │   │   ├── banner0.gif
+│   │   │   ├── banner1.png
+│   │   │   ├── banner2.png
+│   │   │   ├── banner3.png
+│   │   │   ├── banner4.png
+│   │   │   ├── banner5.png
+│   │   │   ├── banner6.png
+│   │   │   ├── banner7.png
+│   │   │   ├── banner8.png
+│   │   │   ├── banner9.png
+│   │   │   ├── blackFriday.gif
+│   │   │   └── gsct.png
+│   │   ├── chitietsanpham/
+│   │   │   ├── 1-1.jpg
+│   │   │   ├── box.png
+│   │   │   ├── clock-152067_960_720.png
+│   │   │   ├── icon-baohanh.png
+│   │   │   ├── icon-tick.png
+│   │   │   ├── oppo-f9-mau-do-1-org.jpg
+│   │   │   ├── oppo-f9-mau-do-2-org.jpg
+│   │   │   ├── oppo-f9-mau-do-3-org.jpg
+│   │   │   └── oppo-f9-red-2-400x460.png
+│   │   ├── company/
+│   │   │   ├── Apple.jpg
+│   │   │   ├── Coolpad.png
+│   │   │   ├── HTC.jpg
+│   │   │   ├── Huawei.jpg
+│   │   │   ├── Itel.jpg
+│   │   │   ├── Mobell.jpg
+│   │   │   ├── Mobiistar.jpg
+│   │   │   ├── Motorola.jpg
+│   │   │   ├── Nokia.jpg
+│   │   │   ├── Oppo.jpg
+│   │   │   ├── Philips.jpg
+│   │   │   ├── Realme.png
+│   │   │   ├── Samsung.jpg
+│   │   │   ├── Vivo.jpg
+│   │   │   └── Xiaomi.png
+│   │   ├── favicon.ico
+│   │   ├── footer/
+│   │   │   ├── footer1.png
+│   │   │   └── footer2.png
+│   │   ├── logo.jpg
+│   │   ├── mess.jpg
+│   │   ├── products/
+│   │   │   ├── huawei-mate-20-pro-green-600x600.jpg
+│   │   │   ├── huawei-nova-3-2-600x600.jpg
+│   │   │   ├── huawei-y5-2017-300x300.jpg
+│   │   │   ├── ipad-wifi-32gb-2018-thumb-600x600.jpg
+│   │   │   ├── iphone-7-plus-32gb-hh-600x600.jpg
+│   │   │   ├── iphone-x-256gb-silver-400x400.jpg
+│   │   │   ├── mobiistar-b310-orange-600x600.jpg
+│   │   │   ├── mobiistar-e-selfie-300-1copy-600x600.jpg
+│   │   │   ├── mobiistar-x-3-600x600.jpg
+│   │   │   ├── mobiistar-zumbo-s2-dual-300x300.jpg
+│   │   │   ├── nokia-51-plus-black-18thangbh-400x400.jpg
+│   │   │   ├── oppo-a3s-32gb-600x600.jpg
+│   │   │   ├── oppo-f9-red-600x600.jpg
+│   │   │   ├── samsung-galaxy-a8-plus-2018-gold-600x600.jpg
+│   │   │   ├── samsung-galaxy-j4-plus-pink-400x400.jpg
+│   │   │   ├── samsung-galaxy-j8-600x600-600x600.jpg
+│   │   │   ├── xiaomi-mi-8-1-600x600.jpg
+│   │   │   ├── xiaomi-mi-8-lite-black-1-600x600.jpg
+│   │   │   ├── xiaomi-redmi-5-plus-600x600.jpg
+│   │   │   └── xiaomi-redmi-note-5-pro-600x600.jpg
+│   │   └── tintuc/
+│   │       ├── tintuc1.png
+│   │       ├── tintuc2.png
+│   │       ├── tintuc3.png
+│   │       ├── tintuc4.png
+│   │       └── tintuc5.png
+│   └── js/
+│       ├── Jquery/
+│       │   └── Jquery.min.js
+│       ├── admin.js
+│       ├── chat.js
+│       ├── chitietsanpham.js
+│       ├── classes.js
+│       ├── dungchung.js
+│       ├── giohang.js
+│       ├── lienhe.js
+│       ├── nguoidung.js
+│       ├── owlcarousel/
+│       │   ├── owl.carousel.min.css
+│       │   ├── owl.carousel.min.js
+│       │   └── owl.theme.default.min.css
+│       ├── server.js
+│       └── trangchu.js
+├── components/
+│   ├── AdminLayout.jsx
+│   ├── Cart.jsx
+│   ├── ChatBox.jsx
+│   ├── CreateProduct.jsx
+│   ├── CustomerModal.jsx
+│   ├── CustomerTable.jsx
+│   ├── CustomersAdmin.jsx
+│   ├── DashboardChart.jsx
+│   ├── Footer.jsx
+│   ├── Header.jsx
+│   ├── Layout.jsx
+│   ├── OrderTable.jsx
+│   ├── OrdersAdmin.jsx
+│   ├── ProductModal.jsx
+│   ├── ProductTable.jsx
+│   ├── ProductsAdmin.jsx
+│   └── Sidebar.jsx
+├── contexts/
+│   ├── CartContext.jsx
+│   └── ProductContext.jsx
+├── data/
+│   ├── products.json
+│   └── users.json
+├── index.css
+├── main.jsx
+└── pages/
+    ├── About.jsx
+    ├── Admin.jsx
+    ├── Careers.jsx
+    ├── Contact.jsx
+    ├── Home.jsx
+    ├── Login.jsx
+    ├── News.jsx
+    ├── ProductDetail.jsx
+    ├── Profile.jsx
+    ├── PromoProducts.jsx
+    ├── Register.jsx
+    └── WarrantyCenter.jsx

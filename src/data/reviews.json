@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "customerName": "Nguyễn Văn A",
+    "rating": 5,
+    "comment": "Sản phẩm rất tốt, dịch vụ khách hàng tuyệt vời!"
+  },
+  {
+    "id": 2,
+    "customerName": "Trần Thị B",
+    "rating": 4,
+    "comment": "Giao hàng nhanh, sản phẩm đúng như mô tả."
+  },
+  {
+    "id": 3,
+    "customerName": "Lê Văn C",
+    "rating": 5,
+    "comment": "Tôi rất hài lòng với trải nghiệm mua sắm tại đây."
+  }
+]
